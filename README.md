@@ -3,7 +3,7 @@
 
 <img src = "./static/images/Feeble2.png">
 
-## Distribution
+## Description
 
 Feeble is the social media app where you can post your photos or video to show out your work or lifestyle and share it with your other friends too. It also allows you to create and join different groups, which you can use to share your work and find like-minded people. You can also follow other users and stay updated about their posts. Existing system for the app where user can post photos and videos, follow each others and download posts.
 
