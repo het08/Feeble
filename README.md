@@ -1,4 +1,4 @@
-# FEELE
+# FEEBLE
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 <img src = "./static/images/Feeble2.png">
